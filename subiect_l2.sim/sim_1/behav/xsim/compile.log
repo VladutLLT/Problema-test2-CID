@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/comp_eq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comp_eq
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/compute_behav.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compute_behav
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/compute_struct.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compute_struct
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/impartire.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module impartire
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/inmultire.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inmultire
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/reg_8b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_8b
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/substract.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module substract
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/suma.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module suma
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sim_1/new/simulare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulare

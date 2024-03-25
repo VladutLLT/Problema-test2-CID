@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../subiect_l2.srcs/sources_1/new/comp_eq.v" \
+"../../../../subiect_l2.srcs/sources_1/new/compute_behav.v" \
+"../../../../subiect_l2.srcs/sources_1/new/compute_struct.v" \
+"../../../../subiect_l2.srcs/sources_1/new/counter.v" \
+"../../../../subiect_l2.srcs/sources_1/new/impartire.v" \
+"../../../../subiect_l2.srcs/sources_1/new/inmultire.v" \
+"../../../../subiect_l2.srcs/sources_1/new/ram.v" \
+"../../../../subiect_l2.srcs/sources_1/new/reg_8b.v" \
+"../../../../subiect_l2.srcs/sources_1/new/substract.v" \
+"../../../../subiect_l2.srcs/sources_1/new/suma.v" \
+"../../../../subiect_l2.srcs/sources_1/new/top.v" \
+"../../../../subiect_l2.srcs/sim_1/new/simulare.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Jun 22 10:50:21 2023
+# Process ID: 6064
+# Current directory: C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14340 C:\Users\vladm\Desktop\cid\miscelaneous\subiect_l2\subiect_l2.xpr
+# Log file: C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/vivado.log
+# Journal file: C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2\vivado.jou
+# Running On: DESKTOP-O83TDCJ, OS: Windows, CPU Frequency: 1996 MHz, CPU Physical cores: 8, Host memory: 33719 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.xpr
+update_compile_order -fileset sources_1

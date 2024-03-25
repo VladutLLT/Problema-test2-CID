@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sim_1/new/simulare.v,1684951429,verilog,,,,simulare,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/comp_eq.v,1684947896,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/compute_behav.v,,comp_eq,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/compute_behav.v,1685003917,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/compute_struct.v,,compute_behav,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/compute_struct.v,1684947788,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/counter.v,,compute_struct,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/counter.v,1684945212,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/impartire.v,,counter,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/impartire.v,1684950281,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/inmultire.v,,impartire,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/inmultire.v,1684947900,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/ram.v,,inmultire,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/ram.v,1684951168,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/reg_8b.v,,ram,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/reg_8b.v,1684945083,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/substract.v,,reg_8b,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/substract.v,1684950318,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/suma.v,,substract,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/suma.v,1684946445,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/top.v,,suma,,,,,,,,
+C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sources_1/new/top.v,1684951815,verilog,,C:/Users/vladm/Desktop/cid/miscelaneous/subiect_l2/subiect_l2.srcs/sim_1/new/simulare.v,,top,,,,,,,,
